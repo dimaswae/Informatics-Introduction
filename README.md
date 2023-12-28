@@ -1,9 +1,7 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-- Bagaimana membuat solusi dalam bentuk program yang efektif dan efisien
-- Langkahnya seperti apa untuk bisa menyelesaikan masalah, untuk lebih efektif, untuk lebih efisien
-- Ini dasar dari semua pembangunan produk keinformatikaan
+Link : https://inovadra.wordpress.com/2023/12/28/computational-thinking-membangun-keterampilan-pemecahan-masalah-di-era-digital/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 - Karena solusi teknologi informasi itu ditaruh di mesin komputasi
