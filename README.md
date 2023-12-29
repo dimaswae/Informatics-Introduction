@@ -4,18 +4,7 @@
 Link : https://inovadra.wordpress.com/2023/12/28/computational-thinking-membangun-keterampilan-pemecahan-masalah-di-era-digital/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-- Karena solusi teknologi informasi itu ditaruh di mesin komputasi
-    - Mobil pintar
-    - Robot mini
-    - Drone pawai teratur
-    - Smartphone
-    - Game
-- Contoh
-    - PC
-    - Server
-    - Embedded computer
-    - Mobile phone
-    - Console
+Link : https://inovadra.wordpress.com/2023/12/29/jenis-jenis-mesin-komputasi-menguak-ragam-teknologi-digital/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 - Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
