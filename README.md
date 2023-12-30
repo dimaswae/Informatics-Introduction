@@ -41,6 +41,8 @@ Link : https://youtu.be/gZFzDUDhcno
 - Menggunakan evaluasi tengah semester
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+untuk proses instalasi karna aidah pernah saya instal sebelum nya saya hanya menjelaskan penggunaan nya dengen dbeaver.
+untuk cara instal nya cukup download package mysql ny di situs resmi kemudian instal seperti biasa.
 Link : https://youtu.be/gZFzDUDhcno
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
