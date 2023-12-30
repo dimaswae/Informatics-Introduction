@@ -21,33 +21,17 @@ Link : https://youtu.be/Lrgb0bAalVo
 
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-- Contoh:
-    - Flowchart daftar ulang perkuliahan
-    - Flowchart musuh di game mengejar karakter
-    - Flowchart bayar pajak STNK
-    - Flowchart membuat paspor
-    - Flowchart sortir daftar mahasiswa
-    - Flowchart login Instagram
-
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+Link : https://youtu.be/pv-hZKPUlTU
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-Referensi [1](https://scratch.mit.edu/)
+Link : https://youtu.be/pv-hZKPUlTU
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-- Beri penjelasan
-- Beri komentar, bahasa indonesia
-- Lebih bagus buat juga flowchart nya
+Link : https://youtu.be/pv-hZKPUlTU
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-- IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
-- Contoh:
-    - VS Code
-    - Unity
-    - Android Studio
-    - Notepad ++
-    - Vim
+Link : https://youtu.be/gZFzDUDhcno
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 - Sebagai developer
@@ -57,52 +41,23 @@ Referensi [1](https://scratch.mit.edu/)
 - Menggunakan evaluasi tengah semester
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-- Karena semua aplikasi terutama berbasis internet saat ini seperti Instagram, Youtube, Github, Tokopedia, BPJS, Internet Banking, semua, pake database
-
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
+Link : https://youtu.be/gZFzDUDhcno
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-- Eksplorasi dan pengelolaan database, paling dasar bisa menggunakan console
-- Database explorer, seperti Navicat (berbayar) dan Dbeaver, adalah aplikasi eksplorasi dan pengelolaan database berbasis GUI, yang bisa terhubung ke berbagai jenis database
-- Task
-    1. Berhasil koneksi ke database yang sudah diinstall (PostgreSQL / MySQL)
-    2. Mencoba membuat table baru
-    3. Mencoba bahasa SQL untuk query data
-
-Referensi tutorial [PostgreSQL](https://www.youtube.com/watch?v=efEaVGYl5_I&pp=ygUaZGJlYXZlciBjb25uZWN0IHBvc3RncmVzcWw%3D)
-Referensi tutorial [MySQL](https://www.youtube.com/watch?v=3kq_xQAvJCs)
-
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+Link : https://youtu.be/gZFzDUDhcno
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
-- Jelaskan sederhana cara kerjanya
+Dalam Artikel kali ini saya menggunakan Praktik URL untuk mengakses halaman html dari github.com
+Link : https://inovadra.wordpress.com/2023/12/30/apa-itu-url-komponen-komponen-url-dan-menyingkap-rahasia-alamat-web/
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-- Karena URL tidak hanya dipakai untuk manusia akses ke browser
-- Penggunaan utamanya saat ini adalah integrasi data misal antara Front End dan Backend, atau antara aplikasi mobile dengan server menggunakan protokol komunikasi RESTful API
-- Jadi resource itu apa sih, di kata URL ini ?
-
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+Link : https://inovadra.wordpress.com/2023/12/30/apa-itu-url-komponen-komponen-url-dan-menyingkap-rahasia-alamat-web/
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi tool:
-- https://who.is/whois/detik.com
-- https://www.nslookup.io/domains/detik.com/webservers/
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+Link : https://youtu.be/gZFzDUDhcno
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+Link : https://youtu.be/gZFzDUDhcno
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
@@ -154,7 +109,7 @@ Contoh:
 - [CatFact](https://catfact.ninja/fact)
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-- Karena ini tools utama untuk mendiagnosis halaman web, memanipulasi halaman web, otomasi, kondisi respon dari server, dsb.
+Link : https://youtu.be/gZFzDUDhcno
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -225,6 +180,7 @@ Referensi:
 - Eksplorasi juga jurnal yang disuka di https://www.scimagojr.com/
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+Link : https://youtu.be/A32NYGJZXko
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
@@ -246,7 +202,7 @@ Referensi:
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
-## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+## Membangun Profil Github Page ⭐⭐⭐⭐⭐    
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
