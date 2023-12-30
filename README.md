@@ -19,7 +19,6 @@ Link : https://youtu.be/Lrgb0bAalVo
 
 Link : https://youtu.be/Lrgb0bAalVo
 
-- [Linux Command Cheat Sheet](https://phoenixnap.com/kb/linux-commands-cheat-sheet)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 - Contoh:
