@@ -7,31 +7,17 @@ Link : https://inovadra.wordpress.com/2023/12/28/computational-thinking-membangu
 Link : https://inovadra.wordpress.com/2023/12/29/jenis-jenis-mesin-komputasi-menguak-ragam-teknologi-digital/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-- Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
+Link : https://youtu.be/Lrgb0bAalVo
 
 ## Mencoba Console Sistem Operasi
-- Karena console
-    - Interface paling dasar yang bisa manusia dan aplikasi pergunakan untuk mengakses program di sistem operasi
-    - Ketika membangun solusi digital berbasis client-server, akan banyak konfigurasi dan optimalisasi program memanfaatkan console
-    - Program berbasis console jauh lebih cepat dari program berbasis GUI
 
 ### Console di Windows / Mac: Windows CMD [v] ⭐⭐⭐⭐
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+Link : https://youtu.be/Lrgb0bAalVo
 
 ### Console di Linux: Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
-Contoh di Google Colab:
-
-List di direktori ini ada file dan folder apa aja:
-```py
-!ls
-```
-
-Print saya sekarang ada di posisi mana
-```py
-!pwd
-```
+Link : https://youtu.be/Lrgb0bAalVo
 
 - [Linux Command Cheat Sheet](https://phoenixnap.com/kb/linux-commands-cheat-sheet)
 
