@@ -34,14 +34,13 @@ Link : https://youtu.be/pv-hZKPUlTU
 Link : https://youtu.be/gZFzDUDhcno
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-- Sebagai developer
-- Selesaikan topics : Algorithms / Data Structure / Mathematics, boleh pake bahasa apapun
+Link : https://youtu.be/S2qMS4EHyW4
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 - Menggunakan evaluasi tengah semester
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-untuk proses instalasi karna aidah pernah saya instal sebelum nya saya hanya menjelaskan penggunaan nya dengen dbeaver.
+untuk proses instalasi karna sudah pernah saya instal sebelum nya saya hanya menjelaskan penggunaan nya dengen dbeaver.
 untuk cara instal nya cukup download package mysql ny di situs resmi kemudian instal seperti biasa.
 Link : https://youtu.be/gZFzDUDhcno
 
@@ -165,7 +164,7 @@ Referensi:
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 Referensi:
-- https://colab.research.google.com/drive/1AMLJIYM4r-uirkf1mKrkmqHAAgXTTwww?usp=sharing
+- ./
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 Referensi:
