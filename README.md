@@ -73,27 +73,7 @@ Referensi:
 - [On page SEO](https://backlinko.com/on-page-seo)
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-- Karena JSON sekarang format representasi data paling populer digunakan baik untuk pengguna manusia dan utamanya untuk integrasi data antar aplikasi. Gojek ke BNI, UIN ke Kemenag, Kementerian ke KSP, aplikasi kasir ke server utama, Instagram App ke server Instagram, backup data mahasiswa
-
-```json
-{
-    "nama_data": "List Mahasiswa 2023",
-    "isi_data": [
-        {
-            "nim": "93487534",
-            "nama": "Aden",
-            "tl": 2005,
-            "aktif": true
-        },
-        {
-            "nim": "93487535",
-            "nama": "Juli",
-            "tl": 2005,
-            "aktif": true
-        }
-    ]
-}
-```
+Link : https://drive.google.com/file/d/1WZtbXvWmjpl-hxNVTLSSxe9IGh_aJhry/view?usp=drive_link
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -186,6 +166,7 @@ Link : https://youtu.be/A32NYGJZXko
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+Link : https://drive.google.com/file/d/10rNPFAtzsG50ATIhabx6fZrtTkPoVrBL/view?usp=drive_link
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
