@@ -140,7 +140,11 @@ Referensi:
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 - https://www.kaggle.com
 
+
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+![Screenshot_2023-12-31-07-15-42-66](https://github.com/dimaswae/Informatics-Introduction/assets/125195082/d300c7bd-f6c7-40a6-ae1d-fba96f50cc80)
+![Screenshot_2023-12-31-07-15-25-89](https://github.com/dimaswae/Informatics-Introduction/assets/125195082/07e297fe-7c4b-4551-a2f5-038eb315037f)
+![Screenshot_2023-12-31-06-47-15-35](https://github.com/dimaswae/Informatics-Introduction/assets/125195082/301b196e-4d73-4674-8b58-3fdb41044841)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 Referensi:
@@ -168,25 +172,30 @@ Link : https://youtu.be/A32NYGJZXko
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 Link : https://drive.google.com/file/d/10rNPFAtzsG50ATIhabx6fZrtTkPoVrBL/view?usp=drive_link
 
-## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+![Screenshot_2024-01-02-11-24-56-40](https://github.com/dimaswae/Informatics-Introduction/assets/125195082/d3123e30-32cf-4044-95f8-23f27b23fc89)
+
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+Link : https://drive.google.com/file/d/1yLHQgmtEIJF6O91k5pjKiCsPyvGEXY9r/view?usp=drive_link
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+Link : https://drive.google.com/file/d/1yLHQgmtEIJF6O91k5pjKiCsPyvGEXY9r/view?usp=drive_link
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-Referensi:
-- https://roadmap.sh/
+Link : https://drive.google.com/file/d/1yLHQgmtEIJF6O91k5pjKiCsPyvGEXY9r/view?usp=drive_link
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 Referensi:
 - https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+Link : https://drive.google.com/file/d/1yLHQgmtEIJF6O91k5pjKiCsPyvGEXY9r/view?usp=drive_link
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐    
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+Link : https://drive.google.com/file/d/1yLHQgmtEIJF6O91k5pjKiCsPyvGEXY9r/view?usp=drive_link
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
